@@ -1,0 +1,18 @@
+#+TITLE: Readme for Mr. Darcy and Mr. Darcy
+#+AUTHOR: Lewis Parnell
+#+DATE: 2016-11-30
+
+* 1. What is this?
+
+This program is an extra credit assignment for my computer science class (big ups @charlesreid1!)
+
+The assignment was to create something for NaNoGenMo 2016, a take on the NaNoWriMo, national novel writing month that happens every November.
+
+* 2. My Program
+
+My program is a simple script to generate sentences using a Markov chain, using @jsvine's nice and simple markovify. The thing that makes it slightly less boring, and actually pretty funny sometimes is that every sentence starts with "Mr. Darcy" and the Markov chain stuff figures out what the most likely sentence will be.
+
+* 3. Choice Examples
+
+"Mr. Darcy chose to be laughed at!" cried Elizabeth.
+Mr. Darcy was exposed to all those people.
